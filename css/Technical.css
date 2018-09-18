@@ -1,0 +1,47 @@
+body{
+    background: url("../img/bg1.png");
+}
+
+*{
+    font-family: sans-serif;
+    color: #ffff;
+}
+
+h1{
+    text-align: center;
+    text-shadow: 1px 1px 3px blue;
+}
+
+.logo_right{
+    float: right;
+}
+
+.NavBar {
+    background-color:#000;
+    overflow: hidden;
+    width: 80%;
+}
+
+
+.NavBar a {
+    float: left;
+    text-align: center;
+    padding: 14px 18px;
+    text-decoration: none;
+    font-size: 1em;
+}
+
+.NavBar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+h3,h4{
+    text-shadow: 1px 1px 3px blue;
+}
+
+#Container{
+    width: 90%;
+    margin: auto;
+
+}
