@@ -2,7 +2,8 @@
 ============================================================================================ */
 .home_banner_area{
 	z-index: 1;
-	background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+	// background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+	background: url(../img/cogback.jpg) no-repeat scroll center center;
 	background-size: cover;
 	.banner_inner{
 		overflow: hidden;
@@ -54,7 +55,8 @@
 		min-height: 780px;
 		z-index: 1;
 		.overlay{
-			background: url(../img/banner/banner-2.jpg) no-repeat scroll center center;
+			// background: url(../img/banner/banner-2.jpg) no-repeat scroll center center;
+			background: url(../img/cogback.jpg) no-repeat scroll center center;
 			opacity: .5;
 			height: 125%;
 			position: absolute;
@@ -95,10 +97,13 @@
 	position: relative;
 	z-index: 1;
 	min-height: 400px;
-	background-image: -moz-linear-gradient( 0deg, rgba(188,43,255,.8) 0%, rgba(114,73,251,.8) 100%);
-	background-image: -webkit-linear-gradient( 0deg, rgba(188,43,255,.8) 0%, rgba(114,73,251,.8) 100%);
+	
+	background: url(../img/cogback.jpg) no-repeat scroll center center;
+	background-image: -moz-linear-gradient( 0deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.8) 100%);
+	background-image: -webkit-linear-gradient(0deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.8) 100%);
 	// background: url(../img/banner/bg1.jpg)
-	background-image: -ms-linear-gradient( 0deg, rgba(188,43,255,.8) 0%, rgba(114,73,251,.8) 100%);
+	// background: url(../img/cogback.jpg) no-repeat scroll center center;
+	// background-image: -ms-linear-gradient( 0deg, rgba(0,0,0,.8) 0%, rgba(0,0,0,.8) 100%); 
 	.banner_inner{
 		position: relative;
 		overflow: hidden;

@@ -17,9 +17,10 @@ h1{
 }
 
 .NavBar {
-    background-color:#000;
+    background-color:rgba(21, 131, 125, 0.808);
     overflow: hidden;
     width: 80%;
+    height: 20%;
 }
 
 
