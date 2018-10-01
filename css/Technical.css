@@ -1,5 +1,9 @@
 body{
-    background: url("../img/bg1.png");
+    background: url("../img/bg3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
 }
 
 *{
