@@ -10,6 +10,12 @@ body{
     color: #ffff;
 }
 
+.Single-Image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 h1{
     text-align: center;
     text-shadow: 1px 1px 3px blue;
