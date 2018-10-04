@@ -269,7 +269,7 @@ button:focus {
 
 .header_area .navbar .nav .nav-item.submenu ul .nav-item:hover .nav-link {
   background-image: -moz-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
-  background-image: -webkit-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
+  background-image: -webkit-linear-gradient(0deg, #0a1321 0%, #495057 100%);
   background-image: -ms-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
   color: #fff;
 }
@@ -309,7 +309,7 @@ button:focus {
   left: 0;
   right: 0;
   background-image: -moz-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
-  background-image: -webkit-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
+  background-image: -webkit-linear-gradient(0deg, #0a1321 0%, #495057 100%);
   background-image: -ms-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
   -webkit-transform: translateY(70px);
   -ms-transform: translateY(70px);
@@ -475,7 +475,7 @@ button:focus {
   z-index: 1;
   min-height: 400px;
   background-image: -moz-linear-gradient(0deg, rgba(188, 43, 255, 0.8) 0%, rgba(114, 73, 251, 0.8) 100%);
-  background-image: -webkit-linear-gradient(0deg, rgba(188, 43, 255, 0.8) 0%, rgba(114, 73, 251, 0.8) 100%);
+  background-image: -webkit-linear-gradient(0deg, rgb(10, 19, 33) 0%, rgb(52, 58, 64) 100%);
   background-image: -ms-linear-gradient(0deg, rgba(188, 43, 255, 0.8) 0%, rgba(114, 73, 251, 0.8) 100%);
 }
 .marginCard {
