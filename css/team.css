@@ -1,0 +1,39 @@
+.Box{
+    position: relative;
+}
+
+h.Box{
+    padding:30px;
+}
+
+.left{
+    width: 33%;
+    float : left;
+}
+
+.single{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width : 33%;
+    height: 350px;
+    border-radius : 50%;
+    padding : 20px;
+}
+
+.Round-image{
+    border-radius : 50%;
+    width : 100%;
+    height: 350px;
+    padding : 20px;
+}
+
+.text{
+    padding: 20px;
+
+    text-shadow: 2px 2px #000 ;
+    text-align: center;
+    
+    font-size: 1.6em;
+    font-family: sans-serif;   
+}
