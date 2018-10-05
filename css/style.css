@@ -470,6 +470,10 @@ button:focus {
   margin: auto;
 }
 
+.marginB {
+  margin-bottom: 30px;
+}
+
 .banner_area {
   position: relative;
   z-index: 1;
