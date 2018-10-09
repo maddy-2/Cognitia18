@@ -4,6 +4,14 @@
     display: block; 
 }
 
+.web_body{
+    
+    background: url("../img/bg7.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 h3,h2{
     padding:10px 10px 20px;
 }
