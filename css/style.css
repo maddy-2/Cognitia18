@@ -4088,7 +4088,7 @@ h6 {
 .footer-bottom .footer-social a:hover {
   color: #fff;
   background-image: -moz-linear-gradient(0deg, rgba(188, 43, 255, 0.8) 0%, rgba(114, 73, 251, 0.8) 100%);
-  background-image: -webkit-linear-gradient(0deg, rgba(188, 43, 255, 0.8) 0%, rgba(114, 73, 251, 0.8) 100%);
+  background-image: -webkit-linear-gradient(0deg, rgb(10, 19, 33) 0%, rgb(52, 58, 64) 100%);
   background-image: -ms-linear-gradient(0deg, rgba(188, 43, 255, 0.8) 0%, rgba(114, 73, 251, 0.8) 100%);
 }
 
