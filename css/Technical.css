@@ -44,5 +44,7 @@ h3,h4{
     float : left;
 }
 
-
+.image:hover {
+    webkit-filter: blur(3px); /* Chrome, Safari, Opera */
+    filter: blur(3px);
 }
