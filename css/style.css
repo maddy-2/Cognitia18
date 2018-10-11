@@ -3314,10 +3314,10 @@ h6 {
 ============================================================================================ */
 .main_btn {
   padding: 0px 45px;
-  background-image: -webkit-gradient(linear, left top, right top, from(#bc2bff), color-stop(51%, #7249fb), to(#bc2bff));
-  background-image: -webkit-linear-gradient(left, #bc2bff 0%, #7249fb 51%, #bc2bff 100%);
-  background-image: -o-linear-gradient(left, #bc2bff 0%, #7249fb 51%, #bc2bff 100%);
-  background-image: linear-gradient(to right, #bc2bff 0%, #7249fb 51%, #bc2bff 100%);
+  background-image: -webkit-gradient(linear, left top, right top, from(#121113), color-stop(51%, #353338), to(#121113));
+  background-image: -webkit-linear-gradient(left, #121113 0%, #353338 51%, #121113 100%);
+  background-image: -o-linear-gradient(left, #121113 0%, #353338 51%, #121113 100%);
+  background-image: linear-gradient(to right, #121113 0%, #353338 51%, #121113 100%);
   background-size: 200% auto;
   z-index: 2;
   display: inline-block;
