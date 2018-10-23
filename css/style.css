@@ -4097,6 +4097,28 @@ footer{
   background-image: -ms-linear-gradient(0deg, rgba(188, 43, 255, 0.8) 0%, rgba(114, 73, 251, 0.8) 100%);
 }
 
+.eventdate{
+  width:25%;
+  float:right;
+  margin-top:70px;
+  text-shadow: 1px 1px 2px rgb(16, 95, 185);
+}
+
+h3.eventdate{
+  size:9.4em;
+}
+
+.cd{
+  float: left;
+  font-style:italic;
+}
+
+.mapouter{
+  display:block;
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom:40px;
+}
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
