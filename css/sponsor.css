@@ -1,0 +1,25 @@
+.spondiv{
+    width: 49%;
+    padding : 20px;
+    float: left;
+}
+
+.spon_img{
+    width:100%;
+    height: 360px;
+    padding:30px;
+    border-radius: 50%;
+}
+
+.spontext{
+    font-family: Arial;
+    font-size: 2em;
+    text-shadow: 2px 2px blue;
+}
+
+.sponbody{
+    background: url("../img/bg2.jpg");
+    background-attachment : fixed;
+    background-repeat: none;
+    background-size: cover;
+}
