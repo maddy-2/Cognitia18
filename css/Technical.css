@@ -20,6 +20,7 @@ body{
 h1{
     text-align: center;
     text-shadow: 1px 1px 3px blue;
+    padding: 20px;
 }
 
 .logo_right{
@@ -47,4 +48,21 @@ h3,h4{
 .image:hover {
     webkit-filter: blur(3px); /* Chrome, Safari, Opera */
     filter: blur(3px);
+}
+
+.button{
+    width: 200px;
+    background-color: rgba(39, 38, 38, 0.192);
+    border: 2px solid blue;
+    border-radius:20%;
+    font-size: 1.2em;
+    padding: 10px;
+}
+
+.button:hover{
+    background-color: rgba(0, 67, 253, 0.651);
+}
+.buttonalign{
+    text-align:center;
+    padding-top: 30px;
 }
