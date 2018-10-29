@@ -89,6 +89,15 @@ button:focus {
   padding-top: 120px;
   padding-bottom: 120px;
 }
+.p_about {
+  padding-top: 60px;
+  padding-bottom: 0px;
+}
+
+.p_spl {
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
 
 .pad_top {
   padding-top: 120px;
