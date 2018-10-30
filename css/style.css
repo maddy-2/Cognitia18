@@ -44,6 +44,22 @@ Table of Content:
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:300,300i,400,500,700");
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
+
+
+.imageContainer{
+  position: relative;
+    text-align: center;
+    /* color: white; */
+}
+.descriptionMed{
+  position: absolute;
+    top: 8px;
+    left: 16px;
+
+}
+.medImage{
+  width : 100%;
+}
 .list {
   list-style: none;
   margin: 0px;
@@ -2183,7 +2199,7 @@ button:focus {
 }
 
 b, sup, sub, u, del {
-  color: #f8b600;
+  color: black;
 }
 
 h1 {
@@ -3441,8 +3457,8 @@ h6 {
 .banner_btn {
   padding: 0px 45px;
   line-height: 50px;
-  background: #fff;
-  color: #222222;
+  background: #F26430;
+  color:white;
   display: inline-block;
   border-radius: 5px;
   font-size: 13px;
@@ -3541,7 +3557,11 @@ h6 {
 }
 
 .interior_area.interior_two {
-  background: #fff;
+  background: #ffff;
+}
+.interior_area.interior_two.med {
+  /* background: #BDD5EA; */
+  background: #ffff
 }
 
 .interior_inner .col-lg-5 {
@@ -3561,6 +3581,9 @@ h6 {
 
 .interior_inner .interior_text p {
   margin-bottom: 40px;
+}
+.interior_text_Med{
+  color: #4a4a4a;
 }
 
 /* End Feature Area css
